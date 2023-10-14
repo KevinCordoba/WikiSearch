@@ -22,9 +22,9 @@ const Login = () => {
           // Check the value of rolValue and navigate accordingly
           /*
           if (rolValue === 'Admin') {
-            navigate('/galeriaAdmin');
+            navigate('/p1');
           } else {
-            navigate('/galeriaCliente');
+            navigate('/p2');
           }
             */
         });

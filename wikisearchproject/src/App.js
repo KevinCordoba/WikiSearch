@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Routes>
         <Route path='/registro' element={<SignUp />} />
-        <Route path='login/' element={<SignIn />} /> 
+        <Route path='WikiSearch/' element={<SignIn />} /> 
       </Routes>
     </div>
     </BrowserRouter>

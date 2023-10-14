@@ -40,7 +40,7 @@ const SignUp = () => {
         .then((userCredential) => {
           console.log(userCredential);
           agregarDatos();
-          navigate('/login')
+          navigate('/WikiSearch')
         })
         .catch((error) => {
           console.log(error);
