@@ -45,7 +45,7 @@ const Login = () => {
     <div className="galeria-container">
       <form className="formBarra">
         <div className="botonBarra-container">
-          <button className="botonBarra" onClick={() => navigate('/')}>
+          <button className="botonBarra" onClick={() => navigate('/login')}>
             Galería
           </button>
         </div>
