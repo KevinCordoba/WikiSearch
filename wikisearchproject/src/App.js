@@ -3,7 +3,7 @@ import SignIn from './components/login';
 import React from 'react'
 import './App.css';
 import {BrowserRouter, Route, Routes} from 'react-router-dom'
-import Login from './components/login';
+import "./components/Design.css"
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Routes>
         <Route path='/registro' element={<SignUp />} />
-        <Route path='/login' element={<SignIn />} /> 
+        <Route path='login/' element={<SignIn />} /> 
       </Routes>
     </div>
     </BrowserRouter>

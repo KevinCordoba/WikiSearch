@@ -44,11 +44,6 @@ const Login = () => {
   return (
     <div className="galeria-container">
       <form className="formBarra">
-        <div className="botonBarra-container">
-          <button className="botonBarra" onClick={() => navigate('/login')}>
-            Galería
-          </button>
-        </div>
       </form>
       <div className="sign_in-container">
         <form onSubmit={Login} className="formSignIn">
