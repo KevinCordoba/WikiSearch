@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/WikiSearch/static/css/main.21cf6a5b.css",
-    "main.js": "/WikiSearch/static/js/main.0f15ee5a.js",
+    "main.js": "/WikiSearch/static/js/main.ecb407af.js",
     "static/media/fondo.jpg": "/WikiSearch/static/media/fondo.e3dd32269f4ead9f56a9.jpg",
     "index.html": "/WikiSearch/index.html",
     "main.21cf6a5b.css.map": "/WikiSearch/static/css/main.21cf6a5b.css.map",
-    "main.0f15ee5a.js.map": "/WikiSearch/static/js/main.0f15ee5a.js.map"
+    "main.ecb407af.js.map": "/WikiSearch/static/js/main.ecb407af.js.map"
   },
   "entrypoints": [
     "static/css/main.21cf6a5b.css",
-    "static/js/main.0f15ee5a.js"
+    "static/js/main.ecb407af.js"
   ]
 }
